@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro Onayquen
+# 👋 Olá, eu sou o Pedro Onayquem
 
 💻 Desenvolvedor **Java Backend**, focado em criação de **APIs REST**, boas práticas e arquitetura limpa.  
 🚀 Atualmente estudando e desenvolvendo projetos com **Spring Boot**, **JPA/Hibernate** e **MySQL**.
