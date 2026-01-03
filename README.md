@@ -7,11 +7,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔹 Desenvolvedor Backend em Java  
-- 🔹 Experiência com APIs REST (CRUD, validações, exceções, documentação)  
-- 🔹 Conhecimento em bancos de dados relacionais  
-- 🔹 Versionamento com Git e GitHub  
-- 🔹 Sempre buscando evoluir como desenvolvedor e aprender novas tecnologias
+ 🔹 Desenvolvedor Backend em Java  
+ 🔹 Experiência com APIs REST (CRUD, validações, exceções, documentação)  
+ 🔹 Conhecimento em bancos de dados relacionais  
+ 🔹 Versionamento com Git e GitHub  
+ 🔹 Sempre buscando evoluir como desenvolvedor e aprender novas tecnologias
 
 ---
 
