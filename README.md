@@ -57,10 +57,8 @@ API REST desenvolvida com **Spring Boot**, **JPA**, **MySQL** e **Swagger**, con
 ---
 
 ## 📫 Como me encontrar
-
- -💼 GitHub: [github.com/PedroOnayquen](https://github.com/PedroOnayquen)
  
- -🔗 Linkedin: *https://www.linkedin.com/in/pedro-onayquen-01417b379/*
+ -🔗 Linkedin: *https://www.linkedin.com/in/pedro-onayquem-01417b379/*
  
  -📧 Email: *ponayquen@gmail.com*
 
